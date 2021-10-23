@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'iconfont';  /* Project id 2857309 */
+  src: url('//at.alicdn.com/t/font_2857309_akarsv6g4bu.woff2?t=1633913556825') format('woff2'),
+  url('//at.alicdn.com/t/font_2857309_akarsv6g4bu.woff?t=1633913556825') format('woff'),
+  url('//at.alicdn.com/t/font_2857309_akarsv6g4bu.ttf?t=1633913556825') format('truetype');
+}
+
+[class*='yu-icon-'] {
+  font-family: 'iconfont' !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.yu-icon-bluray:before {
+  content: '\e6a4';
+}
+
+.yu-icon-cancel:before {
+  content: '\e6a5';
+}
+
+.yu-icon-down:before {
+  content: '\e6a6';
+}
+
+.yu-icon-sun:before {
+  content: '\e6a7';
+}
+
+.yu-icon-musiclist:before {
+  content: '\e6a8';
+}
+
+.yu-icon-home:before {
+  content: '\e6a9';
+}
+
+.yu-icon-favoriteslist:before {
+  content: '\e6aa';
+}
+
+.yu-icon-loop:before {
+  content: '\e6ab';
+}
+
+.yu-icon-nextsong:before {
+  content: '\e6ac';
+}
+
+.yu-icon-jinzhi:before {
+  content: '\e65e';
+}
+
+.yu-icon-close:before {
+  content: '\e6ba';
+}
+
+.yu-icon-showpassword:before {
+  content: '\e8bf';
+}
